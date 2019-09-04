@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.scrollListContainer{
+  padding: .3rem;
+  padding-top: calc(46px + .3rem);
+  height:inherit;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background: #f2f5f7;
+  box-sizing: border-box;
+}

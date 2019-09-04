@@ -1,0 +1,66 @@
+.linear-button{
+    background-image: linear-gradient(-30deg, 
+		#376bff 0%, 
+		#409afe 100%), 
+	linear-gradient(
+		#4fb7ff, 
+		#4fb7ff);
+	background-blend-mode: normal, 
+		normal;
+}
+.common-bg{
+    background-color: #376bff
+}
+.fixed {
+	position: fixed!important;
+	width: 100%;
+	top:0;
+	background:#fff;
+	z-index: 999!important;
+}
+.fixed-top{
+	margin-top:50px;
+}
+.van-nav-bar__left, .van-nav-bar .van-nav-bar__arrow{
+	font-size: 24px;
+	color:#333
+}
+.van-nav-bar .van-icon  {
+color: #333!important
+}
+.payshow__choice--card {
+	display: flex;
+    align-items: center
+}
+.payshow__choice--name {
+	flex-basis: 80px;
+	text-align: center;
+	font-size: 14px
+}
+.item-after {
+	position: relative;
+	padding-top: 10px;
+	
+}
+.item-after::after{
+	content: '';
+	display:block;
+	height: 10px;
+	background:#f5f5f5;
+	position: absolute;
+	width: 100%;
+	top: 0
+}
+.dp-flex{
+	display: flex;
+}
+.flex-1{
+	flex: 1;
+	overflow: hidden;
+}
+.red{
+	color: #ff4649
+}
+.blue{
+	color: #409afe
+}

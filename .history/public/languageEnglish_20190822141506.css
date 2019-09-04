@@ -1,0 +1,12 @@
+.login-content input::-webkit-input-placeholder { /* Chrome/Opera/Safari */ 
+  color: red;
+}
+.login-content input::-moz-placeholder { /* Firefox 19+ */  
+  color: red;
+}
+.login-content input:-ms-input-placeholder { /* IE 10+ */ 
+ color: red;
+}
+.login-content input:-moz-placeholder { /* Firefox 18- */ 
+ color: red;
+}
