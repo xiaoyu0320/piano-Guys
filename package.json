@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "ajv": "^5.5.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bitcoinjs-lib": "^5.0.5",
     "clipboard": "^2.0.4",
     "crypto-js": "^3.1.9-1",
